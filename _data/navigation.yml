@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: blueiris
+  url: sec.gsa.ink
+  
+- title: esxi
+  url: esxi.gsa.ink
+  
+- title: unifi
+  url: unifi.gsa.ink
